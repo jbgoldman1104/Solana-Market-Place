@@ -1,4 +1,3 @@
-[package]
 name = "hall_of_heros"
 version = "0.1.0"
 edition = "2018"
